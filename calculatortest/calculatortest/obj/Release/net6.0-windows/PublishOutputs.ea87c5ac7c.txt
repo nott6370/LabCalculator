@@ -1,0 +1,5 @@
+D:\GitRepo\LabCalculator\calculatortest\calculatortest\bin\Release\net6.0-windows\app.publish\calculatortest.exe
+D:\GitRepo\LabCalculator\calculatortest\calculatortest\bin\Release\net6.0-windows\app.publish\calculatortest.dll
+D:\GitRepo\LabCalculator\calculatortest\calculatortest\bin\Release\net6.0-windows\app.publish\calculatortest.deps.json
+D:\GitRepo\LabCalculator\calculatortest\calculatortest\bin\Release\net6.0-windows\app.publish\calculatortest.runtimeconfig.json
+D:\GitRepo\LabCalculator\calculatortest\calculatortest\bin\Release\net6.0-windows\app.publish\calculatortest.pdb

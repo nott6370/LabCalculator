@@ -22,7 +22,7 @@ namespace calculatortest
             enterValue = true;
             if(TxtDisplay1.Text != "0")
             {
-                TxtDisplay2.Text = fstNum = $"{result} {operation}";
+                TxtDisplay2.Text = fstNum = $"{TxtDisplay1.Text} {operation}";
                 TxtDisplay1.Text = string.Empty;
             }
         }
@@ -69,8 +69,7 @@ namespace calculatortest
         private void BtnClearHistory_Click(object sender, EventArgs e)
         {
             RtBoxDisplayHistory.Clear();
-            if (RtBoxDisplayHistory.Text == string.Empty)
-                RtBoxDisplayHistory.Text = "There's no history yet";
+            if (RtBoxDisplayHistory.Text == string.Empty);
         }
 
         private void BtnBackspace_Click(object sender, EventArgs e)
@@ -95,6 +94,15 @@ namespace calculatortest
         private void BtnClose_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void TxtDisplay1_TextChanged(object sender, EventArgs e)
+        {
+            if (TxtDisplay1.Text.Length > 0)
+            {
+                TxtDisplay1.Text = Convert.ToDouble(TxtDisplay1.Text).ToString("N0");
+                TxtDisplay1.SelectionStart = TxtDisplay1.Text.Length;
+            }
         }
 
         private void BtnNum_Click(object sender, EventArgs e)

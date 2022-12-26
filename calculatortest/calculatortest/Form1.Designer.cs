@@ -201,6 +201,7 @@
             this.TxtDisplay1.TabIndex = 4;
             this.TxtDisplay1.Text = "0";
             this.TxtDisplay1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.TxtDisplay1.TextChanged += new System.EventHandler(this.TxtDisplay1_TextChanged);
             // 
             // Btn7
             // 
