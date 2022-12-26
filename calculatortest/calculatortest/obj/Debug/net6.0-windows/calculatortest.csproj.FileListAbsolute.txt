@@ -1,0 +1,17 @@
+D:\coding\calculatortest\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.exe
+D:\coding\calculatortest\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.deps.json
+D:\coding\calculatortest\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.runtimeconfig.json
+D:\coding\calculatortest\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.dll
+D:\coding\calculatortest\calculatortest\calculatortest\bin\Debug\net6.0-windows\calculatortest.pdb
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.csproj.AssemblyReference.cache
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.Form1.resources
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.csproj.GenerateResource.cache
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.AssemblyInfoInputs.cache
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.AssemblyInfo.cs
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.csproj.CoreCompileInputs.cache
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.dll
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\refint\calculatortest.dll
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.pdb
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\calculatortest.genruntimeconfig.cache
+D:\coding\calculatortest\calculatortest\calculatortest\obj\Debug\net6.0-windows\ref\calculatortest.dll
