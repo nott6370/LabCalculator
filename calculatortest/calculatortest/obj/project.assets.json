@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\coding\\calculatortest\\calculatortest\\calculatortest\\calculatortest.csproj",
+      "projectUniqueName": "D:\\GitRepo\\LabCalculator\\calculatortest\\calculatortest\\calculatortest.csproj",
       "projectName": "calculatortest",
-      "projectPath": "D:\\coding\\calculatortest\\calculatortest\\calculatortest\\calculatortest.csproj",
+      "projectPath": "D:\\GitRepo\\LabCalculator\\calculatortest\\calculatortest\\calculatortest.csproj",
       "packagesPath": "C:\\Users\\uSeR\\.nuget\\packages\\",
-      "outputPath": "D:\\coding\\calculatortest\\calculatortest\\calculatortest\\obj\\",
+      "outputPath": "D:\\GitRepo\\LabCalculator\\calculatortest\\calculatortest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
